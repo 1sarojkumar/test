@@ -1,0 +1,14 @@
+.container.paddingtopbottom
+{
+padding:40px 0px 40px 0px;
+}
+
+
+
+.zoomhover:hover{
+	height:100%;
+	width:100%;
+	transition:all .9s;
+	
+	
+}
